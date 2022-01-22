@@ -1,0 +1,3 @@
+[submodule "themes/bliss"]
+	path = themes/bliss
+	url = git@github.com:AfonsoRib/Bliss.git
