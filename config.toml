@@ -39,4 +39,22 @@ theme= 'bliss'
     title = "rss"
     url = "/index.xml"
     weight = 30
+  [[menu.footer]]
+    identifier = "license"
+    name = "CC BY-SA 4.0 license"
+    title = "CC BY-SA 4.0 license"
+    url = "https://creativecommons.org/licenses/by-sa/4.0/"
+    weight = 10
+  [[menu.footer]]
+    identifier = "source"
+    name = "source"
+    title = "source"
+    url = "https://github.com"
+    weight = 20
+  [[menu.footer]]
+    identifier = "email"
+    name = "email"
+    title = "email"
+    url = "mailto:blisszs@airmail.cc"
+    weight = 30
 
