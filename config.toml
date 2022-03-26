@@ -34,11 +34,19 @@ theme= 'bliss'
     weight = 20
 
   [[menu.main]]
+    identifier = "videos"
+    name = "Videos"
+    title = "Videos"
+    url = "https://www.youtube.com/channel/UCIgke6Em-NTqYkRD6zOwXjg"
+    weight = 30
+
+  [[menu.main]]
     identifier = "RSS"
     name = "Rss"
     title = "rss"
     url = "/index.xml"
-    weight = 30
+    weight = 40
+
   [[menu.footer]]
     identifier = "license"
     name = "CC BY-SA 4.0 license"
