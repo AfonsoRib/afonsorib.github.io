@@ -42,7 +42,7 @@ theme= 'bliss'
 
   [[menu.main]]
     identifier = "RSS"
-    name = "Rss"
+    name = "RSS"
     title = "rss"
     url = "/index.xml"
     weight = 40
