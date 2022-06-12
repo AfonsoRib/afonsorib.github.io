@@ -17,6 +17,7 @@ theme= 'bliss'
   src ="https://github.com"
   email = "blisszs@airmail.cc"
   mainSections = [ "articles" , "posts" ]
+  customcss = [ "css/custom.css" ]
   
 [menu]
   [[menu.main]]

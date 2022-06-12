@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  {{- partial "head.html" . -}}
+  <aside id="banner">
+    {{ $image := resources.Get "images/1599677706404.jpg" }}
+    <img src="{{ $image.RelPermalink}}">
+  </aside>
+  <main id="content" class="home">
+    {{ .Content }}
+      {{- partial "footer.html" . -}}
+  </main>
+</html>
