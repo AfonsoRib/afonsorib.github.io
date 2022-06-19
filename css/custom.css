@@ -34,6 +34,7 @@ main.home{
 	left: calc(100% / 5);
 	top:0 ;
 	padding: 0em 2em;
+	max-width: 770px;
     }
 
     div#columns{
