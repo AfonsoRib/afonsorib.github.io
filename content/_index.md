@@ -14,5 +14,3 @@ See my:
 - [Short Stories](shortstories/)
 
 This website would be prettier if my focus was to make a pretty website, but garbage dumps are never pretty and I doubt they deserve to be pretty. Even still, shouldn't we try to make everything pretty? I think beauty will save the world.
-
-
