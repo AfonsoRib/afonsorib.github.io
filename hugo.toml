@@ -1,0 +1,29 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = "Afonso's Garbage Dump (Set Me on Fire)"
+theme = 'bearblog'
+
+[menu]
+    [[menu.main]]
+        identifier = "home"
+        name = "Home"
+        url = "/"
+        weight = 1
+
+    [[menu.main]]
+        identifier = "aboutme"
+        name = "About Me"
+        url = "/aboutme/"
+        weight = 2
+
+    [[menu.main]]
+        identifier = "posts"
+        name = "Posts"
+        url = "/posts/"
+        weight = 3
+
+    [[menu.main]]
+        identifier = "shortstories"
+        name = "Short Stories"
+        url = "/shortstories/"
+        weight = 4
